@@ -1,0 +1,54 @@
+body{
+    background: linear-gradient(315deg, #0066ff,#00ffcc)
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin-top: -80px;
+}
+.main label{
+    font-size: 20px;
+    font-weight: bold;
+}
+.main input{
+    margin-top:  35px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+}
+.main .pkrs{
+    margin-left: 100px;
+}
+.main .uss{
+    margin-left: 65px;
+}
+.main .ers{
+    margin-left: 195px;
+}
+.main .sds{
+    margin-left: 141px;
+}
+.main .chs{
+    margin-left: 123px;
+}
+.main .uas{
+    margin-left: 122px;
+}
+.main .cnrts{
+    padding-right: 170px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.main .rsts{
+    padding-right: 170px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
